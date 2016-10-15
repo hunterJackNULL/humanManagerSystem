@@ -1,0 +1,2 @@
+<!-- <button class="btn btn-mini btn-info" type="button" ><!--  onclick="javascript:window.location='hrBuild?action=preSave&hrBuildId=${hrBuild.hrBuildId }'"ÐÞ¸Ä</button>&nbsp;
+							<button class="btn btn-mini btn-danger" type="button" onclick="hrBuildDelete(${hrBuild.workId})">É¾³ý</button> -->
